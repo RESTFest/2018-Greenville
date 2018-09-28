@@ -6,7 +6,8 @@
       "properties": {
         "marker-color": "#c23c47",
         "marker-size": "medium",
-        "marker-symbol": ""
+        "marker-symbol": "",
+        "name": "Tupelo Honey"
       },
       "geometry": {
         "type": "Point",
@@ -19,9 +20,26 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#00aa59",
+        "marker-color": "#ffff80",
         "marker-size": "medium",
-        "marker-symbol": ""
+        "marker-symbol": "",
+        "name": "Caviar & Bananas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.3998979,
+          34.8512938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#844e26",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Trappe Door"
       },
       "geometry": {
         "type": "Point",
@@ -36,7 +54,8 @@
       "properties": {
         "marker-color": "#8853b5",
         "marker-size": "medium",
-        "marker-symbol": ""
+        "marker-symbol": "",
+        "name": "Barley's"
       },
       "geometry": {
         "type": "Point",
@@ -49,15 +68,16 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#f3e54b",
+        "marker-color": "#ff8000",
         "marker-size": "small",
-        "marker-symbol": "star"
+        "marker-symbol": "star",
+        "name": "Clemson University"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -82.3995852470398,
-          34.85197051003339
+          -82.39899516105652,
+          34.85111647709089
         ]
       }
     },
@@ -66,7 +86,8 @@
       "properties": {
         "marker-color": "#485bd1",
         "marker-size": "medium",
-        "marker-symbol": ""
+        "marker-symbol": "",
+        "name": "Lemongrass Thai"
       },
       "geometry": {
         "type": "Point",
@@ -81,7 +102,8 @@
       "properties": {
         "marker-color": "#dd8a46",
         "marker-size": "medium",
-        "marker-symbol": ""
+        "marker-symbol": "",
+        "name": "Handi Indian Cuisine"
       },
       "geometry": {
         "type": "Point",
